@@ -1,2 +1,1 @@
-# Learning-Node-With-Mosh
-Course project (Vidly movie rentals) plus exercises and follow-along for a NodeJS video course by Mosh Hamedani
+Video rental app using mongo, node js, and express.
